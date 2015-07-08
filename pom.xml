@@ -5,7 +5,7 @@
 
   <groupId>net.stickycode.manylives</groupId>
   <artifactId>manylives-parent</artifactId>
-  <version>1.1-SNAPSHOT</version>
+  <version>1.1</version>
 
   <properties>
     <git.connection.url>scm:git:git@github.com:stickycode/manylives.git</git.connection.url>
@@ -14,7 +14,7 @@
   <scm>
     <connection>${git.connection.url}</connection>
     <developerConnection>${git.connection.url}</developerConnection>
-    <tag>HEAD</tag>
+    <tag>net.stickycode.manylives/manylives-parent-1.1</tag>
   </scm>
 
   <build>
