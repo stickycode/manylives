@@ -30,7 +30,7 @@
   </distributionManagement>
 
   <properties>
-    <git.connection.url>scm:git:git@github.com:stickycode/manylives.git</git.connection.url>
+    <git.connection.url>scm:git:git@github.com:stickycode/manylives.git/</git.connection.url>
   </properties>
 
   <scm>
@@ -51,7 +51,7 @@
             <goals>deploy</goals>
             <arguments>-Pvalidate-release</arguments>
             <suppressCommitBeforeTag>false</suppressCommitBeforeTag>
-            <tagNameFormat>${project.groupId}/@{project.artifactId}-@{project.version}</tagNameFormat>
+            <tagNameFormat>@{project.artifactId}-@{project.version}</tagNameFormat>
           </configuration>
         </plugin>
       </plugins>
