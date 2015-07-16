@@ -1,8 +1,8 @@
 [submodule "manylives-parent"]
 	path = manylives-parent
 	url = git@github.com:stickycode/manylives.git
-        branch = net.stickycode.manylives/manylives-parent
+        branch = manylives-parent
 [submodule "manylives-a"]
 	path = manylives-a
 	url = git@github.com:stickycode/manylives.git
-	branch = net.stickycode.manylives/manylives-a
+	branch = manylives-a
