@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>net.stickycode.manylives</groupId>
   <artifactId>manylives-parent</artifactId>
-  <version>1.5</version>
+  <version>1.6-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <licenses>
@@ -36,7 +36,7 @@
   <scm>
     <connection>${git.connection.url}</connection>
     <developerConnection>${git.connection.url}</developerConnection>
-    <tag>manylives-parent-1.5</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <build>
