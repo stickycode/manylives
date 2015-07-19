@@ -11,11 +11,11 @@
 
   <groupId>net.stickycode.manylives</groupId>
   <artifactId>manylives-a</artifactId>
-  <version>1.4-SNAPSHOT</version>
+  <version>1.4</version>
 
   <scm>
     <connection>${git.connection.url}</connection>
     <developerConnection>${git.connection.url}</developerConnection>
-    <tag>HEAD</tag>
+    <tag>manylives-a-1.4</tag>
   </scm>
 </project>
