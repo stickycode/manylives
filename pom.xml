@@ -30,7 +30,7 @@
   </distributionManagement>
 
   <properties>
-    <git.connection.url>scm:git:git@github.com:stickycode/manylives.git/</git.connection.url>
+    <git.connection.url>scm:git:git@github.com:stickycode/manylives.git</git.connection.url>
   </properties>
 
   <scm>
