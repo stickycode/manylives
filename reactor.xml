@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+  <modelVersion>4.0.0</modelVersion>
+
+  <parent>
+    <groupId>net.stickycode.manylives</groupId>
+    <artifactId>manylives-parent</artifactId>
+    <version>1.5</version>
+  </parent>
+
+  <packaging>pom</packaging>
+
+  <groupId>net.stickycode.manylives</groupId>
+  <artifactId>manylives-reactor</artifactId>
+  <version>0</version>
+
+  <modules>
+    <module>manylives-parent</module>
+    <module>manylives-a</module>
+  </modules>
+</project>
